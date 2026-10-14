@@ -1,0 +1,13 @@
+# Archivos de variables de entorno y secretos
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+
+# Archivos temporales y de sistema
+*.log
+__pycache__/
+.DS_Store
+dist/
+build/
